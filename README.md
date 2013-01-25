@@ -1,4 +1,4 @@
-CosmicShear
-===========
+Shear-Power-Spectrum
+====================
 
 Theoretical
